@@ -21,7 +21,7 @@ Developed a Python-based forensic tool that:
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** 
+- **LinkedIn:** www.linkedin.com/in/joseGrodrigueztadeo
 - **Email:** jgrodriguez618@gmail.com
 
 *"Securing the future through automation and continuous learning."*
